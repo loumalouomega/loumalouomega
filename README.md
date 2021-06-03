@@ -1,4 +1,9 @@
 ### Hi there 👋
 
+[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin]
 
-![https://github.com/loumalouomega/](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[github-image]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
+[github]: https://github.com/loumalouomega/
+
+[linkedin-image]: https://img.shields.io/badge/Linkedin-0088CC?style=for-the-badge&logo=Linkedin&logoColor=white
+[linkedin]: linkedin.com/in/vicentemataix
