@@ -2,13 +2,16 @@
 
 ## My social networks
 
-[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin]
+[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram]
 
 [github-image]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
 [github]: https://github.com/loumalouomega/
 
 [linkedin-image]: https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white
 [linkedin]: linkedin.com/in/vicentemataix
+
+[telegram-image]: https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=
+[telegram]: https://t.me/vicente_mataix
 
 ## Programming languages
 
