@@ -45,6 +45,10 @@
 [gitlab-image]: https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=
 [gitlab]: https://about.gitlab.com/
 
+## GNU/Linux
+
+![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=) ![Raspberry Pi](https://img.shields.io/static/v1?style=for-the-badge&message=Raspberry+Pi&color=A22846&logo=Raspberry+Pi&logoColor=FFFFFF&label=) ![Debian](https://img.shields.io/static/v1?style=for-the-badge&message=Debian&color=A81D33&logo=Debian&logoColor=FFFFFF&label=) ![Kubuntu](https://img.shields.io/static/v1?style=for-the-badge&message=Kubuntu&color=0079C1&logo=Kubuntu&logoColor=FFFFFF&label=) ![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=) ![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=) ![KDE](https://img.shields.io/static/v1?style=for-the-badge&message=KDE&color=1D99F3&logo=KDE&logoColor=FFFFFF&label=)
+
 ## Some interesting stuff
 
 [Contributions Skyline](https://skyline.github.com/loumalouomega/2020)
