@@ -2,7 +2,7 @@
 
 ## My social networks
 
-[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram]
+[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram] [![Freelancer][freelancer-image]][freelancer]
 
 [github-image]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
 [github]: https://github.com/loumalouomega/
@@ -12,6 +12,9 @@
 
 [telegram-image]: https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=26A5E4&logo=Telegram&logoColor=FFFFFF&label=
 [telegram]: https://t.me/vicente_mataix
+
+[freelancer-image]: https://img.shields.io/static/v1?style=for-the-badge&message=Freelancer&color=222222&logo=Freelancer&logoColor=29B2FE&label=
+[freelancer]: https://www.freelancer.es/u/VicenteMataix
 
 ## Programming languages
 
