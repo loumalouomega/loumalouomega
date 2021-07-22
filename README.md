@@ -1,5 +1,7 @@
 # Hi there 👋
 
+[My developer blog (WIP)](loumalouomega.github.io)
+
 ## My social networks
 
 [![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram] [![Freelancer][freelancer-image]][freelancer]
