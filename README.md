@@ -1,6 +1,6 @@
 # Hi there 👋
 
-[My developer blog (WIP)](loumalouomega.github.io)
+[My developer blog (WIP)](https://loumalouomega.github.io)
 
 ## My social networks
 
