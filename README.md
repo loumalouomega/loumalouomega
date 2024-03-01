@@ -64,7 +64,7 @@
 
 ### Adaptive remeshing
 
-![](https://raw.githubusercontent.com/KratosMultiphysics/Examples/master/mmg_remeshing_examples/use_cases/contacting_cylinders/data/nodal_h_2d.gif)
+![](https://github.com/KratosMultiphysics/Examples/blob/918c47fb4d8a4c64f5c827cb432cf57cad7d84a5/mmg_remeshing_examples/use_cases/contacting_cylinders/data/nodal_h_2d.gif)
 
 ## Some interesting stuff
 
