@@ -1,10 +1,13 @@
 # Hi there 👋
 
-[My developer blog (WIP)](https://loumalouomega.github.io)
+<img align="right" src="https://github-readme-stats.hiyouga.vercel.app/api/top-langs/?username=loumalouomega&hide=HTML" alt="https://github-readme-stats.vercel.app/api/top-langs/?username=loumalouomega&hide=HTML" />
+<img align="right" src="https://komarev.com/ghpvc/?username=loumalouomega" alt="loumalouomega" />
+
+<!-- [My developer blog (WIP)](https://loumalouomega.github.io) -->
 
 ## My social networks
 
-[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram] [![Freelancer][freelancer-image]][freelancer]
+[![Github][github-image]][github] [![Linkedin][linkedin-image]][linkedin] [![Telegram][telegram-image]][telegram] <!--[![Freelancer][freelancer-image]][freelancer]-->
 
 [github-image]: https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white
 [github]: https://github.com/loumalouomega/
